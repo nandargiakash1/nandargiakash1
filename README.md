@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nandargiakash1
+- 👋 Hi, I’m Akash Nandargi
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning courses related to data analytics
 - 💞️ 
